@@ -1,0 +1,819 @@
+@media (max-width: 800px) {
+    /*apparence différente pour une page inférieure à 800px*/
+    #base{
+      height: 299px;
+      top: 394px;
+      left: 114px;
+      position: absolute;
+    }
+    #bp{
+      top: 394px;
+      left: 114px;
+      position: absolute;
+    }
+  
+    #Sommet{
+      height: 236px;
+      top: 158px;
+      left: 174px;
+      position: absolute;
+    }
+    #sp{
+      top: 158px;
+      left: 174px;
+      position: absolute;
+    }
+  
+    #piedcentre{
+      height: 191px;
+      top: 1194px;
+      left: 114px;
+      position: absolute;
+    }
+    #pcp{
+      top: 1194px;
+      left: 114px;
+      position: absolute;
+    }
+  
+    #piedg{
+      height: 175px;
+      top: 1127px;
+      left: -118px;
+      position: absolute;
+    }
+    #pgp{
+      top: 1127px;
+      left: -118px;
+      position: absolute;
+    }
+  
+    #piedd{
+      height: 175px;
+      top: 1138px;
+      left: 362px;
+      position: absolute;
+    }
+    #pdp{
+      top: 1138px;
+      left: 362px;
+      position: absolute;
+    }
+  
+    .pira{
+      z-index: 2;
+    }
+    .pirag{
+      z-index: 2;
+    }
+    #t1{
+      height: 54px;
+      top: 657px;
+      left: 79px;
+      position: absolute;
+    }
+    #t1p{
+      top: 657px;
+      left: 79px;
+      position: absolute;
+    }
+  
+    #t2{
+      height: 135px;
+      top: 690px;
+      left: 199px;
+      position: absolute;
+    }
+    #t2p{
+      top: 690px;
+      left: 199px;
+      position: absolute;
+    }
+  
+    #t3{
+      height: 89px;
+      top: 668px;
+      left: 291px;
+      position: absolute;
+    }
+    #t3p{
+      top: 668px;
+      left: 291px;
+      position: absolute;
+    }
+  
+    #t4{
+      height: 106px;
+      top: 809px;
+      left: -12px;
+      position: absolute;
+    }
+    #t4p{
+      top: 809px;
+      left: -12px;
+      position: absolute;
+    }
+  
+    #t5{
+      height: 260px;
+      top: 707px;
+      left: 75px;
+      position: absolute;
+    }
+    #t5p{
+      top: 707px;
+      left: 75px;
+      position: absolute;
+    }
+  
+    #t6{
+      height: 82px;
+      top: 823px;
+      left: 181px;
+      position: absolute;
+    }
+    #t6p{
+      top: 823px;
+      left: 181px;
+      position: absolute;
+    }
+  
+    #t7{
+      height: 252px;
+      top: 774px;
+      left: 266px;
+      position: absolute;
+    }
+    #t7p{
+      top: 774px;
+      left: 266px;
+      position: absolute;
+    }
+  
+    #t8{
+      height: 234px;
+      top: 738px;
+      left: 356px;
+      position: absolute;
+    }
+    #t8p{
+      top: 738px;
+      left: 356px;
+      position: absolute;
+    }
+  
+    #t9{
+      height: 122px;
+      top: 938px;
+      left: -30px;
+      position: absolute;
+    }
+    #t9p{
+      top: 938px;
+      left: -30px;
+      position: absolute;
+    }
+  
+    #t10{
+      height: 96px;
+      top: 942px;
+      left: 118px;
+      position: absolute;
+    }
+    #t10p{
+      top: 942px;
+      left: 118px;
+      position: absolute;
+    }
+  
+    #t11{
+      height: 110px;
+      top: 966px;
+      left: 206px;
+      position: absolute;
+    }
+    #t11p{
+      top: 966px;
+      left: 206px;
+      position: absolute;
+    }
+  
+    #t12{
+      height: 63px;
+      top: 1069px;
+      left: -22px;
+      position: absolute;
+    }
+    #t12p{
+      top: 1069px;
+      left: -22px;
+      position: absolute;
+    }
+  
+    #t13{
+      height: 129px;
+      top: 1041px;
+      left: 56px;
+      position: absolute;
+    }
+    #t13p{
+      top: 1041px;
+      left: 56px;
+      position: absolute;
+    }
+  
+    #t14{
+      height: 35px;
+      top: 1099px;
+      left: 186px;
+      position: absolute;
+    }
+    #t14p{
+      top: 1099px;
+      left: 186px;
+      position: absolute;
+    }
+  
+    #t15{
+      height: 171px;
+      top: 1049px;
+      left: 280px;
+      position: absolute;
+    }
+    #t15p{
+      top: 1049px;
+      left: 280px;
+      position: absolute;
+    }
+  
+    #t16{
+      height: 53px;
+      top: 1006px;
+      left: 366px;
+      position: absolute;
+    }
+    #t16p{
+      top: 1006px;
+      left: 366px;
+      position: absolute;
+    }
+  
+    #m1{
+      position: absolute;
+      width: 822px;
+      top: 529px;
+      left: -34px;
+      z-index: 1;
+    }
+    #m2{
+      position: absolute;
+      width: 651px;
+      top: 757px;
+      left: 365px;
+      z-index: 2;
+    }
+    #m3{
+      position:absolute;
+      width: 495px;
+      top: 589px;
+      left: 1130px;
+      z-index: 1;
+    }
+    #m4{
+      position:absolute;
+      width: 371px;
+      top: 520px;
+      left: 1475px;
+    }
+    #m5{
+      opacity: 0;
+    }
+    #m6{
+      opacity: 0;
+    }
+    #m7{
+      opacity: 0;
+    }
+    #m8{
+      opacity: 0;
+    }
+    .mont{
+      z-index: 1;
+    }
+    #dd{
+      position: absolute;
+      width: 100vw;
+      opacity: 0.5;
+      
+    }
+    .mk1{
+      mask-image: url(../img/SVG/dd.svg);
+      mask-repeat: no-repeat;
+      mask-size: 100%;
+      mask-position: 0px 1107px;
+      height: 1098px;
+      width: 100vw;
+      position: absolute;
+      /* top: 632px;
+      left: 1210px; */
+  
+      
+    }
+  
+    @keyframes leve {
+      0%{
+        mask-position: 0px 1107px;
+      }
+      100%{
+        mask-position: 0px 529px;
+      }
+      
+    }
+  
+    @keyframes couche {
+      0%{
+        mask-position: 0px 529px;
+      }
+      100%{
+        mask-position: 0px 1107px;
+      }
+      
+    }
+    }
+    
+    @media (max-width: 1800px) and (min-width :800px){
+        /*apparence différente pour une page comprise entre 800px et 1000px*/
+        #base{
+          height: 299px;
+          top: 394px;
+          left: 314px;
+          position: absolute;
+        }
+      
+      
+        #Sommet{
+          height: 236px;
+          top: 158px;
+          left: 374px;
+          position: absolute;
+        }
+       
+      
+        #piedcentre{
+          height: 191px;
+          top: 1194px;
+          left: 314px;
+          position: absolute;
+        }
+      
+        #piedg{
+          height: 175px;
+          top: 1127px;
+          left: 82px;
+          position: absolute;
+        }
+       
+      
+        #piedd{
+          height: 175px;
+          top: 1138px;
+          left: 562px;
+          position: absolute;
+        }
+       
+      
+        .pira{
+          z-index: 2;
+        }
+        .pirag{
+          z-index: 2;
+        }
+        #t1{
+          height: 54px;
+          top: 657px;
+          left: 279px;
+          position: absolute;
+        }
+
+      
+        #t2{
+          height: 135px;
+          top: 690px;
+          left: 399px;
+          position: absolute;
+        } 
+
+        #t3{
+          height: 89px;
+          top: 668px;
+          left: 491px;
+          position: absolute;
+        }
+
+      
+        #t4{
+          height: 106px;
+          top: 809px;
+          left: 188px;
+          position: absolute;
+        }
+
+      
+        #t5{
+          height: 260px;
+          top: 707px;
+          left: 275px;
+          position: absolute;
+        }
+
+        #t6{
+          height: 82px;
+          top: 823px;
+          left: 381px;
+          position: absolute;
+        }
+
+      
+        #t7{
+          height: 252px;
+          top: 774px;
+          left: 466px;
+          position: absolute;
+        }
+  
+        #t8{
+          height: 234px;
+          top: 738px;
+          left: 556px;
+          position: absolute;
+        }
+   
+        #t9{
+          height: 122px;
+          top: 938px;
+          left: 170px;
+          position: absolute;
+        }
+
+      
+        #t10{
+          height: 96px;
+          top: 942px;
+          left: 318px;
+          position: absolute;
+        }
+  
+      
+        #t11{
+          height: 110px;
+          top: 966px;
+          left: 406px;
+          position: absolute;
+        }
+    
+        #t12{
+          height: 63px;
+          top: 1069px;
+          left: 178px;
+          position: absolute;
+        }
+  
+        #t13{
+          height: 129px;
+          top: 1041px;
+          left: 256px;
+          position: absolute;
+        }
+  
+        #t14{
+          height: 35px;
+          top: 1099px;
+          left: 386px;
+          position: absolute;
+        }
+     
+        #t15{
+          height: 171px;
+          top: 1049px;
+          left: 480px;
+          position: absolute;
+        }
+
+        #t16{
+          height: 53px;
+          top: 1006px;
+          left: 566px;
+          position: absolute;
+        }
+
+        #dd{
+          position: absolute;
+        }
+        #m1{
+          position:absolute;
+          width: 512px;
+          top: 632px;
+          left: 710px;
+          z-index: 1;
+        }
+        #m2{
+          position:absolute;
+          width: 406px;
+          top: 530px;
+          left: 1060px;
+        }
+        #m3{
+          position:absolute;
+          width: 495px;
+          top: 589px;
+          left: 1330px;
+          z-index: 1;
+        }
+        #m4{
+          position:absolute;
+          width: 371px;
+          top: 520px;
+          left: 1675px;
+        }
+        #m5{
+          position:absolute;
+          width: 588px;
+          top: 814px;
+          left: 1509px;
+          z-index: 1;
+        }
+        #m6{
+          opacity: 0;
+        }
+        #m7{
+          opacity: 0;
+        }
+        #m8{
+          position:absolute;
+          width: 412px;
+          top: 744px;
+          left: 1128px;
+          z-index: 1;
+        }
+        .mk1{
+          mask-image: url(../img/SVG/dd.svg);
+          mask-repeat: no-repeat;
+          mask-size: 100%;
+          mask-position: 0px 1098px;
+          height: 1098px;
+          width: 100vw;
+          position: absolute;
+        }
+        @keyframes leve {
+          0%{
+            mask-position: 0px 1098px;
+          }
+          100%{
+            mask-position: 0px 454px;
+          }
+          
+        }
+        
+        @keyframes couche {
+          0%{
+            mask-position: 0px 454px;
+          }
+          100%{
+            mask-position: 0px 1098px;
+          }
+          
+        }
+      }
+    
+      @media (min-width :1800px){
+        /*apparence différente pour une page supérieure à 1800px*/
+        #base{
+          height: 299px;
+          top: 394px;
+          left: 414px;
+          position: absolute;
+        }
+        #Sommet{
+          height: 236px;
+          top: 158px;
+          left: 474px;
+          position: absolute;
+        }
+        #piedcentre{
+          height: 191px;
+          top: 1194px;
+          left: 414px;
+          position: absolute;
+        }
+        #piedg{
+          height: 175px;
+          top: 1127px;
+          left: 182px;
+          position: absolute;
+        }
+        #piedd{
+          height: 175px;
+          top: 1138px;
+          left: 662px;
+          position: absolute;
+        }
+        .pira{
+          z-index: 2;
+        }
+        .pirag{
+          z-index: 2;
+        }
+        #t1{
+          height: 54px;
+          top: 657px;
+          left: 379px;
+          position: absolute;
+        }
+        #t2{
+          height: 135px;
+          top: 690px;
+          left: 499px;
+          position: absolute;
+        }
+        #t3{
+          height: 89px;
+          top: 668px;
+          left: 591px;
+          position: absolute;
+        }
+        #t4{
+          height: 106px;
+          top: 809px;
+          left: 288px;
+          position: absolute;
+        }
+        #t5{
+          height: 260px;
+          top: 707px;
+          left: 375px;
+          position: absolute;
+        }
+        #t6{
+          height: 82px;
+          top: 823px;
+          left: 481px;
+          position: absolute;
+        }
+        #t7{
+          height: 252px;
+          top: 774px;
+          left: 566px;
+          position: absolute;
+        }
+        #t8{
+          height: 234px;
+          top: 738px;
+          left: 656px;
+          position: absolute;
+        }
+        #t9{
+          height: 122px;
+          top: 938px;
+          left: 270px;
+          position: absolute;
+        }
+        #t10{
+          height: 96px;
+          top: 942px;
+          left: 418px;
+          position: absolute;
+        }
+        #t11{
+          height: 110px;
+          top: 966px;
+          left: 506px;
+          position: absolute;
+        }
+        #t12{
+          height: 63px;
+          top: 1069px;
+          left: 278px;
+          position: absolute;
+        }
+        #t13{
+          height: 129px;
+          top: 1041px;
+          left: 356px;
+          position: absolute;
+        }
+        #t14{
+          height: 35px;
+          top: 1099px;
+          left: 486px;
+          position: absolute;
+        }
+        #t15{
+          height: 171px;
+          top: 1049px;
+          left: 580px;
+          position: absolute;
+        }
+        #t16{
+          height: 53px;
+          top: 1006px;
+          left: 666px;
+          position: absolute;
+        }
+        #dd{
+          position: absolute;
+        }
+        #m1{
+          position:absolute;
+          width: 512px;
+          top: 632px;
+          left: 1210px;
+          z-index: 1;
+        }
+        #m2{
+          position:absolute;
+          width: 406px;
+          top: 530px;
+          left: 1560px;
+        }
+        #m3{
+          position:absolute;
+          width: 495px;
+          top: 589px;
+          left: 1830px;
+          z-index: 1;
+        }
+        #m4{
+          position:absolute;
+          width: 371px;
+          top: 520px;
+          left: 2175px;
+        }
+        #m5{
+          position:absolute;
+          width: 512px;
+          top: 666px;
+          left: 513px;
+          z-index: 2;
+        }
+        #m6{
+          position:absolute;
+          width: 406px;
+          top: 570px;
+          left: 861px;
+        }
+        #m7{
+          position:absolute;
+          width: 624px;
+          top: 765px;
+          left: 838px;
+          z-index: 1;
+        }
+        #m8{
+          position:absolute;
+          width: 444px;
+          top: 744px;
+          left: 1610px;
+        }
+        
+        
+        .mont{
+          z-index: 1;
+        }
+        
+        .mk1{
+          mask-image: url(../img/SVG/dd.svg);
+          mask-repeat: no-repeat;
+          mask-size: 100%;
+          mask-position: 0px 1137px;
+          height: auto;
+          width: auto;
+          position: absolute;
+          /* top: 632px;
+          left: 1210px; */
+          height: 100vh;
+          width: 100vw;
+          
+        }
+        
+      
+        
+        @keyframes leve {
+          0%{
+            mask-position: 0px 1137px;
+          }
+          100%{
+            mask-position: 0px 524px;
+          }
+          
+        }
+        
+        @keyframes couche {
+          0%{
+            mask-position: 0px 524px;
+          }
+          100%{
+            mask-position: 0px 1137px;
+          }
+          
+        }
+        }

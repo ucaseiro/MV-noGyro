@@ -1,0 +1,30 @@
+body{
+  height: 300vh; 
+  background-image: url(../img/SVG/dd.svg);
+  background-size: cover;
+}
+
+main{
+  position : fixed;
+  height: 100vh;
+  width: 100vw;
+}
+
+/* ne pas toucher aux éléments ci-dessus. On travail c'est ce qui permet d'avoir une page que l'on peut 
+"scroller" mais qui visuellement ne bouge pas. */
+
+.leve{
+  animation-name: leve;
+  animation-duration: 3s;
+  animation-fill-mode:both;
+}
+
+.couche{
+  animation-name: couche;
+  animation-duration: 3s;
+}
+
+
+  
+  
+  
